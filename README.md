@@ -18,4 +18,5 @@ This is my personal **developer portfolio** creatively styled as a **Java class*
 
 Here’s what the portfolio looks like:
 
-![Screenshot](portfolio-preview.png) 
+
+<img width="1920" height="1786" alt="portfolio-preview" src="https://github.com/user-attachments/assets/c6d729ae-dea2-440c-80e2-8ddf3d36209c" />
