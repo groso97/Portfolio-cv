@@ -18,4 +18,4 @@ This is my personal **developer portfolio** creatively styled as a **Java class*
 
 Here’s what the portfolio looks like:
 
-![Screenshot](portfolio-preview.png) 
+![Screenshot]
